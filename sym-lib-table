@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "USB4105-GF-A") (type "KiCad") (uri "C:/Users/Shaurya/Documents/components/USB-C Port/USB4105_GF_A/USB4105-GF-A.kicad_sym") (options "") (descr ""))
+	(lib (name "USBLC6-2SC6") (type "KiCad") (uri "C:/Users/Shaurya/Documents/components/ESD Protection/USBLC6_2SC6/USBLC6-2SC6.kicad_sym") (options "") (descr ""))
+)
